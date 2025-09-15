@@ -1,1 +1,1 @@
-**G**ranular-**B**all based **M**ulti-view **O**utlier **D**etection (GBMOD)
+**GBMOD**: **G**ranular-**B**all based **M**ulti-view **O**utlier **D**etection
