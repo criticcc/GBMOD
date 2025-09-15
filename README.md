@@ -1,1 +1,1 @@
-GBMOD: GRANULAR-BALL BASED MULTI-VIEW OUTLIER DETECTION
+**G**ranular-**B**all based **M**ulti-view **O**utlier **D**etection (GBMOD)
